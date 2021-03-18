@@ -1,4 +1,4 @@
-# TRAWindoed - Tomb Raider Windowed
+# TRAWindowed - Tomb Raider Windowed
 This is a custom d3d9.dll that enables more display modes for the three second era Tomb Raider games. This allows you to play the game in "windowed mode", as well as "borderless-window mode"
 
 ## Supported Games
